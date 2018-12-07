@@ -6,14 +6,14 @@
 /*   By: lbonnete <lbonnete@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/11/23 14:27:06 by lbonnete          #+#    #+#             */
-/*   Updated: 2018/12/07 11:36:32 by lbonnete         ###   ########.fr       */
+/*   Updated: 2018/12/07 15:13:10 by lbonnete         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef GET_NEXT_LINE_H
 # define GET_NEXT_LINE_H
 
-# define BUFF_SIZE 10
+# define BUFF_SIZE 8
 
 # include <unistd.h>
 # include <stdlib.h>
