@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   fillit.h                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: trabut <marvin@42.fr>                      +#+  +:+       +#+        */
+/*   By: lbonnete <lbonnete@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/12/05 13:55:29 by trabut            #+#    #+#             */
-/*   Updated: 2018/12/05 14:05:30 by trabut           ###   ########.fr       */
+/*   Updated: 2018/12/07 15:10:17 by lbonnete         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,8 +14,8 @@
 
 # define FILLIT_H
 
-#include "GetNextLine/get_next_line.h"
-#include "GetNextLine/libft/libft.a"
+#include "get_next_line/get_next_line.h"
+#include "get_next_line/libft/libft.a"
 
 char		**test_read(int fd);
 int			tests_tetri(char **tab);
